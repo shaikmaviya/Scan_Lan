@@ -1,48 +1,30 @@
-
-
 # Scan LAN
 
-**Scan LAN** is a powerful and efficient network scanning tool designed to make network management and security tasks easier. Created by **Shaik Maviya**, this tool offers the capability to scan local area networks (LAN) with precision and speed.
+**Scan LAN** is a robust and efficient network scanning tool designed to simplify network management and enhance security operations. Developed by **Shaik Maviya**, this tool provides a comprehensive suite of features to scan and monitor your local area network (LAN) with precision.
 
 ## Features
 
-LAN Scanning: Quickly scan and identify all devices connected to your local network.
-Port Scanning: Analyze the open ports on a target IP address for security assessment.
-Ping Scanning: Verify the connectivity of devices on the network by sending ICMP echo requests.
-Vulnerability Scanning: Identify potential security vulnerabilities on devices within your network.
+- **LAN Scanning:** Quickly identify and map all devices connected to your local network.
+- **Port Scanning:** Perform in-depth analysis of open ports on a target IP address to assess security risks.
+- **Ping Scanning:** Check the connectivity and responsiveness of devices on the network using ICMP echo requests.
+- **Vulnerability Scanning:** Detect potential security vulnerabilities within your networked devices.
 
 ## Installation
 
-To install and use Scan LAN, follow these simple steps:
+To install and use **Scan LAN**, follow these steps:
 
 ```bash
-git clone https://github.com/yourusername/NetScanAI.git
-cd 
+git clone https://github.com/shaikmaviya/Scan_Lan.git
+cd Scan_Lan
 pip install -r requirements.txt
-```
-
-## Usage
-
-To scan a local area network:
-
-```bash
-python netscanai.py --scan-lan
-```
-
-To scan open ports on a specific IP address:
-
-```bash
-python netscanai.py --scan-ports <target_ip>
 ```
 
 ## Contributions
 
-Contributions are welcome! Feel free to fork this repository, make enhancements, and submit pull requests.
+Contributions are highly encouraged! If you have ideas for improvements or additional features, feel free to fork this repository, make your changes, and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
 ---
-
-This template can be adjusted to fit your specific needs and features!
